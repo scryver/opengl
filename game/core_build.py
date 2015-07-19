@@ -20,7 +20,7 @@ if COMPILE:
     )
 
 ffi.cdef("""
-    int RunCore(void);
+    int RunCore(const char *shaderPath);
 """)
 
 if not COMPILE:
