@@ -1,0 +1,799 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Not",
+				"NotImplementedError〔class〕"
+			],
+			[
+				"sett",
+				"setter	(function)"
+			],
+			[
+				"writ",
+				"write_i2c_block_data"
+			],
+			[
+				"DH",
+				"DHT22_SPI〔class〕"
+			],
+			[
+				"class",
+				"class	New Class"
+			],
+			[
+				"LOCA",
+				"LOCAL_CONFIG_FILE"
+			],
+			[
+				"RS",
+				"RS485Error"
+			],
+			[
+				"ro",
+				"rowWithSub"
+			],
+			[
+				"calibratio",
+				"calibrationConfig"
+			],
+			[
+				"re",
+				"reactor"
+			],
+			[
+				"Disc",
+				"Disconnected"
+			],
+			[
+				"reac",
+				"reactorData"
+			],
+			[
+				"react",
+				"reactfile	react-file-header"
+			],
+			[
+				"comp",
+				"componentDidUpdate"
+			],
+			[
+				"Radi",
+				"RadioOtherOption"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Npm Watch.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Octave.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Python Flask.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Python Websocket.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Npm Watch.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Python Flask.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Python Websocket.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Npm Watch.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 75.0,
+		"last_filter": "ssc+",
+		"selected_items":
+		[
+			[
+				"ssc+",
+				"Set Syntax: C++"
+			],
+			[
+				"sscm",
+				"Set Syntax: CMake"
+			],
+			[
+				"packi",
+				"Package Control: Install Package"
+			],
+			[
+				"ssp",
+				"Set Syntax: Python"
+			],
+			[
+				"ssc",
+				"Set Syntax: C"
+			],
+			[
+				"pain",
+				"Package Control: Install Package"
+			],
+			[
+				"sspy",
+				"Set Syntax: Python"
+			],
+			[
+				"lin",
+				"SublimeLinter: Clear Caches"
+			],
+			[
+				"pacin",
+				"Package Control: Install Package"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"ssjsb",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"ssjb",
+				"Set Syntax: JSON (Babel)"
+			],
+			[
+				"jab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"pains",
+				"Package Control: Install Package"
+			],
+			[
+				"pacinst",
+				"Package Control: Install Package"
+			],
+			[
+				"sscss",
+				"Set Syntax: CSS"
+			],
+			[
+				"sssh",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"fetf",
+				"Fetch: File"
+			],
+			[
+				"aut",
+				"Autoprefix CSS"
+			],
+			[
+				"au",
+				"Autoprefix CSS"
+			],
+			[
+				"autio	",
+				"Autoprefix CSS"
+			],
+			[
+				"fet",
+				"Fetch: Package"
+			],
+			[
+				"js",
+				"Snippet: jsxtransform"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"snipp",
+				"Snippet: jsxtransform"
+			],
+			[
+				"snip",
+				"Snippet: react"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"fetch pa",
+				"Fetch: Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML"
+			],
+			[
+				"reaccompup",
+				"Snippet: React: componentDidUpdate: fn(pp, ps) { ... }"
+			],
+			[
+				"reac co",
+				"Snippet: React: componentDidMount: fn() { ... }"
+			],
+			[
+				"snire",
+				"Snippet: React: getDefaultProps: fn() { return {...} } "
+			],
+			[
+				"snipre",
+				"Snippet: reactClass"
+			],
+			[
+				"jsx",
+				"Set Syntax: JavaScript (JSX)"
+			],
+			[
+				"ssjsjs",
+				"Set Syntax: JavaScript (JSX)"
+			],
+			[
+				"xi",
+				"Create Xiki Buffer"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"PAck",
+				"Package Control: Install Package"
+			],
+			[
+				"sni",
+				"Snippet: html"
+			],
+			[
+				"ssh",
+				"Set Syntax: HTML"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"h",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/michiel/projects/OpenGL"
+	],
+	"file_history":
+	[
+		"/home/michiel/projects/OpenGL_Tut/tutorial02_red_triangle/SimpleFragmentShader.fragmentshader",
+		"/home/michiel/projects/OpenGL/game/henk.py",
+		"/home/michiel/projects/OpenGL/core/src/main.cpp",
+		"/home/michiel/projects/OpenGL/core/src/core.cpp",
+		"/home/michiel/projects/OpenGL/core/include/core.h",
+		"/home/michiel/projects/OpenGL/core/CMakeLists.txt",
+		"/home/michiel/python/cvector/cvector.sublime-project",
+		"/home/michiel/Tendris/pi-client/controller/config/config.py",
+		"/home/michiel/Tendris/pi-client/spi.py",
+		"/home/michiel/Tendris/pi-client/client.py",
+		"/home/michiel/Tendris/pi-client/controller/controller.py",
+		"/home/michiel/Tendris/pi-client/controller/__init__.py",
+		"/home/michiel/Tendris/pi-client/controller/reactors/reactors.py",
+		"/home/michiel/Tendris/pi-client/controller/reactors/recipes/basis.py",
+		"/home/michiel/Tendris/pi-client/controller/reactors/recipes/recipes.py",
+		"/home/michiel/Tendris/pi-client/controller/reactors/recipes/ingredients.py",
+		"/home/michiel/Tendris/pi-client/controller/peripherals/peripherals.py",
+		"/home/michiel/Tendris/pi-client/controller/peripherals/rs485.py",
+		"/home/michiel/Tendris/pi-client/controller/peripherals/i2c.py",
+		"/home/michiel/Tendris/pi-client/controller/peripherals/gpio.py",
+		"/home/michiel/Tendris/pi-client/controller/peripherals/arduino.py",
+		"/home/michiel/Tendris/pi-client/controller/peripherals/adc/dac.py",
+		"/home/michiel/Tendris/pi-client/controller/peripherals/__init__.py",
+		"/home/michiel/Tendris/pi-client/controller/peripherals/FakeRPIO.py",
+		"/home/michiel/Tendris/pi-client/controller/peripherals/adc/adc.py",
+		"/home/michiel/Tendris/pi-client/controller/controllersocket/controllersocket.py",
+		"/home/michiel/Tendris/pi-client/controller/controllersocket/basesocket.py",
+		"/home/michiel/Tendris/pi-client/controller/config/calibration.py",
+		"/home/michiel/Tendris/pi-client/controller/config/__init__.py",
+		"/home/michiel/workspaces/XMOS/DisplayTest/XS1-L2-USB-AUDIO.xn",
+		"/usr/share/arduino/libraries/Robot_Control/ArduinoRobot.cpp",
+		"/home/michiel/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/michiel/Tendris/pi-controller/pi-controller.sublime-project",
+		"/home/michiel/.config/sublime-text-3/Packages/DocBlockr/README.md",
+		"/home/michiel/.config/sublime-text-3/Packages/LiveReload/LiveReload.sublime-settings",
+		"/home/michiel/Tendris/pi-controller/client/controller/peripherals/FakeRPIO.py",
+		"/home/michiel/Tendris/pi-controller/client/setup.py",
+		"/home/michiel/Tendris/pi-controller/client/controller/peripherals/__init__.py",
+		"/home/michiel/Tendris/pi-controller/tests/client/controller/testconfig.py",
+		"/home/michiel/Tendris/pi-controller/client/controller/peripherals/peripherals.py",
+		"/home/michiel/Tendris/pi-controller/client/controller/peripherals/gpio.py",
+		"/home/michiel/Tendris/pi-controller/client/controller/reactors/recipes/recipes.py",
+		"/home/michiel/Tendris/pi-controller/client/controller/peripherals/rs485.py",
+		"/home/michiel/Tendris/pi-controller/client/controller/controller.py",
+		"/home/michiel/Tendris/pi-controller/client/controller/config/config.py",
+		"/home/michiel/Tendris/pi-controller/client/controller/reactors/recipes/ingredients.py",
+		"/home/michiel/Tendris/pi-controller/tests/client/controller/local_config.json",
+		"/home/michiel/Tendris/pi-controller/client/controller/reactors/recipe.py",
+		"/home/michiel/Tendris/pi-controller/client/controller/reactors/reactors.py",
+		"/home/michiel/Tendris/aff-controller/client/controller/config/config.py",
+		"/home/michiel/Tendris/aff-controller/aff-controller.sublime-project",
+		"/home/michiel/Tendris/aff-controller/client/controller/reactors/recipe.py",
+		"/home/michiel/Tendris/aff-controller/client/controller/peripherals/peripherals.py",
+		"/home/michiel/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+		"/home/michiel/Tendris/AlgaeClient/src/scss/style.scss",
+		"/tmp/rsub-6m458q/in_effluent.py",
+		"/tmp/rsub-uljltk/in_effluent.py",
+		"/run/user/1000/gvfs/smb-share:server=lisa,share=data/Tendris Solutions/Projects/AFF-13-17 Automatisering Algen Reactoren/web interface/todo",
+		"/home/michiel/Tendris/AlgaeClient/src/js/utils/configDict.js",
+		"/run/user/1000/gvfs/smb-share:server=lisa,share=data/Tendris Solutions/Projects/AF&F-13-17 Automatisering Algen Reactoren/web interface/todo",
+		"/run/user/1000/gvfs/smb-share:server=lisa,share=data/Tendris Solutions/Projects/AF&F-13-17 Automatisering Algen Reactoren/web interface/states_config.json",
+		"/run/user/1000/gvfs/smb-share:server=lisa,share=data/Tendris Solutions/Projects/AF&F-13-17 Automatisering Algen Reactoren/web interface/calibrate_config.json",
+		"/home/michiel/Tendris/AlgaeClient/src/js/pages/Overview.js",
+		"/home/michiel/Tendris/AlgaeClient/src/js/stores/reactorStore.js",
+		"/home/michiel/Tendris/AlgaeClient/src/js/utils/helper.js",
+		"/tmp/rsub-jqqgg3/Overview.js",
+		"/home/michiel/Tendris/AlgaeClient/src/js/components/FlotGraph.react.js",
+		"/home/michiel/Tendris/AlgaeClient/src/js/stores/sensorPlotStore.js",
+		"/home/michiel/Tendris/AlgaeClient/public/index.html",
+		"/home/michiel/Tendris/AlgaeClient/package.json",
+		"/home/michiel/Tendris/AlgaeClient/src/js/pages/Graphs.js",
+		"/home/michiel/Tendris/AlgaeClient/src/js/components/SensorGraph.react.js",
+		"/home/michiel/Tendris/AlgaeClient/src/js/menus/MenuGenerator.js",
+		"/home/michiel/Tendris/AlgaeClient/src/js/pages/ReactorPage.js",
+		"/home/michiel/Tendris/AlgaeClient/src/js/pages/Settings.js",
+		"/home/michiel/Tendris/AlgaeClient/src/js/components/Reactor.react.js",
+		"/home/michiel/Tendris/AlgaeClient/src/js/app.js",
+		"/home/michiel/Tendris/AlgaeClient/src/js/utils/time.js",
+		"/home/michiel/Tendris/AlgaeClient/src/css/style.css",
+		"/tmp/rsub-yan1i3/index.html",
+		"/run/user/1000/gvfs/smb-share:server=lisa,share=data/Tendris Solutions/Projects/AF&F-13-17 Automatisering Algen Reactoren/web interface/graph_config.json",
+		"/home/michiel/Tendris/email/EmailSignature.html",
+		"/home/michiel/Tendris/EmailSignature.html",
+		"/home/michiel/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/michiel/Tendris/AlgaeClient/src/js/utils/loading.js",
+		"/home/michiel/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/michiel/.config/sublime-text-3/Packages/AdvancedNewFile/Default (Linux).sublime-keymap",
+		"/home/michiel/.config/sublime-text-3/Packages/User/Git.sublime-settings",
+		"/home/michiel/Tendris/AlgaeClient/src/js/components/Icon.react.js",
+		"/home/michiel/Tendris/AlgaeClient/src/js/components/Modal.react.js",
+		"/home/michiel/Tendris/AlgaeClient/index.html",
+		"/home/michiel/PycharmProjects/realtimeweb/src/js/graph.js",
+		"/home/michiel/webDevel/algae/flux/src/js/stores/websocketStore.js",
+		"/home/michiel/webDevel/algae/flux/public/index.html",
+		"/home/michiel/webDevel/algae/flux/src/js/actions/plotterActions.js",
+		"/home/michiel/webDevel/algae/flux/src/js/components/FlotGraph.react.js",
+		"/home/michiel/webDevel/algae/flux/package.json",
+		"/home/michiel/webDevel/algae/flux/src/js/components/FlotMiniGraph.react.js",
+		"/home/michiel/PycharmProjects/realtimeweb/src/flotter.html",
+		"/home/michiel/PycharmProjects/realtimeweb/src/flotter.py",
+		"/home/michiel/webDevel/algae/flux/src/server.py",
+		"/home/michiel/webDevel/algae/huidigeScript.js",
+		"/home/michiel/webDevel/algae/flux/src/js/actions/websocketActions.js",
+		"/home/michiel/webDevel/algae/flux/src/staticServer.py",
+		"/home/michiel/webDevel/algae/flux/src/js/actions/stateActions.js",
+		"/home/michiel/webDevel/algae/algaeserverdata.json",
+		"/home/michiel/webDevel/algae/flux/src/js/components/OverviewItem.react.js",
+		"/home/michiel/webDevel/algae/flux/bin/websocket",
+		"/home/michiel/webDevel/algae/flux/bin/static",
+		"/home/michiel/webDevel/algae/flux/src/public/index.html",
+		"/home/michiel/webDevel/algae/flux/src/js/app.js",
+		"/home/michiel/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/michiel/webDevel/algae/yeoman/src/assets/styles/main.css",
+		"/home/michiel/webDevel/algae/yeoman/gulpfile.js",
+		"/home/michiel/webDevel/algae/yeoman/src/app/widgets/labeledInput.js",
+		"/home/michiel/webDevel/algae/yeoman/src/app/app.js",
+		"/home/michiel/webDevel/algae/boiler/package.json",
+		"/home/michiel/webDevel/algae/yeoman/src/index.html",
+		"/home/michiel/webDevel/algae/flux/src/js/components/Overview.react.js",
+		"/home/michiel/webDevel/algae/flux/src/js/components/Overview.react.j",
+		"/home/michiel/webDevel/algae/flux/src/public/css/normalize.css",
+		"/home/michiel/webDevel/algae/mui/package.js",
+		"/home/michiel/webDevel/algae/mui/node_modules/browserify/node_modules/url/node_modules/querystring/.package.json.un~",
+		"/home/michiel/webDevel/algae/boiler/node_modules/react/package.json",
+		"/home/michiel/webDevel/algae/boiler/node_modules/normalize.css/package.json",
+		"/home/michiel/webDevel/algae/boiler/node_modules/mocha/package.json",
+		"/home/michiel/webDevel/algae/boiler/node_modules/jsx-loader/package.json",
+		"/home/michiel/webDevel/algae/boiler/node_modules/jshint-stylish/package.json"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/michiel/Tendris/pi-client",
+			"/home/michiel/Tendris/pi-controller/client",
+			"/home/michiel/Tendris/aff-controller/client",
+			"/home/michiel/Tendris/AlgaeClient/src",
+			"/home/michiel/Tendris/AlgaeClient/src/js",
+			"/home/michiel/Tendris/AlgaeClient/src",
+			"/home/michiel/Tendris/AlgaeClient/src/js"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"cmath",
+			"math",
+			"i2c_block_data",
+			"print(function)",
+			"print",
+			"reactor",
+			"print",
+			" #",
+			"print",
+			"put_big_number",
+			"put_text",
+			"draw_rect",
+			"Vertical_Home",
+			"Horizontal_Home",
+			"Set_Display_Size",
+			"Set_Display_Cursor",
+			"Clear_Screen",
+			" 0",
+			"Write_Display_Data",
+			"Write_Display_Command",
+			"unexpected timeout",
+			"Received message from",
+			"self",
+			"+",
+			"self",
+			"]\n",
+			"address",
+			"ports",
+			"self",
+			"n",
+			"ch_on",
+			"ch_ontime",
+			"on",
+			"Peripherals",
+			"event",
+			"Event",
+			"event",
+			"min_volume",
+			"ack",
+			"ACK",
+			"my_address",
+			"new_state",
+			"reactorId",
+			"Serial",
+			"print",
+			"volume",
+			"reactorStateSt",
+			"this.props.config",
+			"this.props.plot",
+			".\n",
+			"this.props.plot",
+			"plot",
+			"\n        ",
+			"plot",
+			"config",
+			"plot",
+			"sensor",
+			"max_real",
+			"max_raw",
+			"min_real",
+			"min_raw",
+			"style=\\{",
+			"style={",
+			"defaultInterval",
+			"35",
+			"block",
+			"tab",
+			"FR",
+			">",
+			"d",
+			"span",
+			"spanStyle",
+			"\\t",
+			"280",
+			"\\t",
+			"    ",
+			"reconnectToServer",
+			"iconClass",
+			"//\n",
+			"get_yesterday",
+			"get_today",
+			"get_current_date",
+			"\"([a-z_]+)\":",
+			"\"([a-z]+)\":",
+			"datadictionary",
+			"data=",
+			"class",
+			"%\">",
+			"\"\n",
+			"\"([A-Za-z0-9: #]+)\"",
+			"\"([A-Za-z0-9: ]+)\"",
+			"watch",
+			"yData",
+			"xData",
+			"title",
+			"config",
+			"text",
+			"color: 1",
+			"], ",
+			" ",
+			"\n.",
+			"\"name\": \"AFF 10L C\",",
+			"name"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"    ",
+			"\\t",
+			"$1:",
+			"'$1'",
+			"],\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 149.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.upload|/home/michiel/Arduino/controllerLCD|1435612067.6080124":
+	{
+		"height": 100.0
+	},
+	"output.upload|/home/michiel/Arduino/lcdTest|1435611720.5616066":
+	{
+		"height": 100.0
+	},
+	"output.upload|/home/michiel/Arduino/lcdTest|1435611831.4643836":
+	{
+		"height": 100.0
+	},
+	"output.upload|/home/michiel/Arduino/lcdTest|1435612020.411679":
+	{
+		"height": 100.0
+	},
+	"output.upload|/home/michiel/Arduino/lcdTest|1435612083.3651652":
+	{
+		"height": 100.0
+	},
+	"output.upload|/home/michiel/Arduino/lcdTest|1435612338.963897":
+	{
+		"height": 100.0
+	},
+	"output.upload|/home/michiel/Arduino/lcdTest|1435612412.140569":
+	{
+		"height": 100.0
+	},
+	"output.upload|/home/michiel/Arduino/lcdTest|1435612445.4903388":
+	{
+		"height": 100.0
+	},
+	"output.upload|/home/michiel/Arduino/lcdTest|1435613216.1890774":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "opengl.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"core.h",
+				"core/include/core.h"
+			],
+			[
+				"gpi",
+				"client/controller/peripherals/gpio.py"
+			],
+			[
+				"rs",
+				"client/controller/peripherals/rs485.py"
+			],
+			[
+				"react",
+				"client/controller/reactors/reactors.py"
+			],
+			[
+				"recip",
+				"client/controller/reactors/recipe.py"
+			],
+			[
+				"calibrate",
+				"src/js/components/CalibrateBase.react.js"
+			],
+			[
+				"form",
+				"src/js/components/Forms.react.js"
+			],
+			[
+				"packag",
+				"boiler/package.json"
+			],
+			[
+				"",
+				"boiler/dist/doc/usage.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 75.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"plot",
+				"plotHover"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 218.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
