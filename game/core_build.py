@@ -12,7 +12,7 @@ ffi = FFI()
 if COMPILE:
     ffi.set_source(
         "_core", """
-            #include "core.h"
+            #include "cwrapper.h"
         """,
         libraries=['run_rabbit_run'],
         library_dirs=[os.path.join(CORE_DIR, 'build')],
@@ -20,7 +20,12 @@ if COMPILE:
     )
 
 ffi.cdef("""
-    int RunCore(const char *shaderPath, const char *imagePath);
+    typedef struct Core Core;
+
+    Core* NewCore(void);
+    void Core_Init(Core *c, const char *shaderPath, const char *imagePath);
+    void Core_Run(Core *c);
+    void DeleteCore(Core *c);
 """)
 
 if not COMPILE:
